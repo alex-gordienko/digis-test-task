@@ -20,7 +20,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-google-maps": "^9.4.5",
-    "react-native": "^0.59.8",
+    "react-native": "^0.62.3",
     "react-native-cli": "^2.0.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5",
